@@ -4,7 +4,7 @@ Waking up early in the morning to attend some online classes is hard. So I made 
 
 ## About
 
-After running the python script, it will open Microsoft Teams in Google Chrome, log you in based on credentials you have entered. After login, it will look for any active online meeting. It will join only if someone has already joined the meeting and it will leave as the last person from the meeting.
+After running the python script, it will open Microsoft Teams in Google Chrome and log you in based on credentials you have entered. After login, it will look for any active online meeting. It will join only if someone has already joined the meeting and it will leave as the last person from the meeting.
 
 ## Compatibility
 OS compatibilty: 
