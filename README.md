@@ -2,6 +2,10 @@
 
 Waking up early in the morning to attend some online classes is hard. So I made a bot that attends my boring online classes for me according to my timetable, which allows me to focus more on the classes that I prefer and get more work done.
 
+## About
+
+After running the python script, it will open Microsoft Teams in Google Chrome, log you in based on credentials you have entered. After login, it will look for any active online meeting. It will join only if someone has already joined the meeting and it will leave as the last person from the meeting.
+
 ## Compatibility
 OS compatibilty: 
   - WINDOWS
