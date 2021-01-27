@@ -37,4 +37,5 @@ Instalation is a a bit more complicated, but I will try to make it simple.
    - You can also configurate a few more things, but it's not necessary
 
 9. Open Microsoft Teams (App or on web), and in settings, change **Layout settings** to "List"
+![Teams Layout](https://support.content.office.net/en-us/media/6d1215fa-f8a3-4a03-930e-20c0c1bc84b2.png)
 10. Now, you can finally run the script *auto_joiner.py*
