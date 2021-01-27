@@ -7,7 +7,9 @@ OS compatibilty:
   - WINDOWS
   - MAC OS
   - LINUX
-Browser compatibility: - Google Chrome **ONLY**
+  
+Browser compatibility: 
+  - Google Chrome **ONLY**
 
 ## Instalation
 Instalation is a a bit more complicated, but I will try to make it simple.
