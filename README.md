@@ -14,6 +14,8 @@ OS compatibilty:
   
 Browser compatibility: 
   - Google Chrome **ONLY**
+  
+Working on Raspbery Pi as well
 
 ## Installation
 Installation is a a bit more complicated, but I will try to make it simple.
