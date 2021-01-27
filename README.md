@@ -3,9 +3,10 @@
 Waking up early in the morning to attend some online classes is hard. So I made a bot that attends my boring online classes for me according to my timetable, which allows me to focus more on the classes that I prefer and get more work done.
 
 ## Compatibility
-OS compatibilty: - WINDOWS
-                 - MAC OS
-                 - LINUX
+OS compatibilty: 
+  - WINDOWS
+  - MAC OS
+  - LINUX
 Browser compatibility: - Google Chrome **ONLY**
 
 ## Instalation
