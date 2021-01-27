@@ -17,7 +17,9 @@ Installation is a a bit more complicated, but I will try to make it simple.
 1. Download the latest version of Python from this [link](https://www.python.org/downloads/)
 2. **IMPORTANT** : during installation, check "Add python to PATH" - (windows only)
 ![Python PATH](https://datatofish.com/wp-content/uploads/2018/10/0001_add_Python_to_Path.png)
+
 3. Check you Google Chrome version
+
 ![Chrome check](https://ctrlv.link/shots/2021/01/27/IkyG.png)
 ![Chrome Version](https://fdn.gsmarena.com/imgroot/news/21/01/chrome-88/-1220x526/gsmarena_000.jpg)
 4. Download Chrome Driver here: https://chromedriver.chromium.org/downloads
