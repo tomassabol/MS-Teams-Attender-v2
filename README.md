@@ -11,7 +11,7 @@ OS compatibilty:
 Browser compatibility: 
   - Google Chrome **ONLY**
 
-## Instalation
+## Installation
 Instalation is a a bit more complicated, but I will try to make it simple.
 
 1. Download the latest version of Python from this [link](https://www.python.org/downloads/)
