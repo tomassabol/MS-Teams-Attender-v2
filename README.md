@@ -12,7 +12,7 @@ Browser compatibility:
   - Google Chrome **ONLY**
 
 ## Installation
-Instalation is a a bit more complicated, but I will try to make it simple.
+Installation is a a bit more complicated, but I will try to make it simple.
 
 1. Download the latest version of Python from this [link](https://www.python.org/downloads/)
 2. **IMPORTANT** : during installation, check "Add python to PATH" - (windows only)
